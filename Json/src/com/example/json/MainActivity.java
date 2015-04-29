@@ -30,6 +30,7 @@ public class MainActivity extends Activity {
 		List<BriefPic> list2 = null;
 		list2=ApiClient.loadMoreBrief("1");
 		System.out.println("11"+list2.get(0).getTitle());
+		//////////////////////12123212edwq
 	}
 
 	
